@@ -1,0 +1,3 @@
+rootProject.name = 'rnApollo'
+
+include ':app'
